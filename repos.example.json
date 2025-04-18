@@ -1,0 +1,5 @@
+{
+  "Repositories": ["repo1", "repo2"],
+  "RootDirectory": "C:\\GitProjects",
+  "Branches": ["master", "main"]
+}
